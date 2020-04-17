@@ -1,7 +1,7 @@
 # About
 数学はできないけど愛しています．
 
-##Profile
+## Profile
 - button
 - 山形県
 - 数学（代数幾何），プログラミング
